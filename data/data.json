@@ -1,14 +1,32 @@
 [
     {
         "id":"01",
-        "name":"Solyman"
+        "name":"javaScript",
+        "details":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries"
     },
     {
         "id":"02",
-        "name":"Solyman"
+        "name":"Python",
+        "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
     },
     {
         "id":"03",
-        "name":"Solyman"
+        "name":"Java",
+        "details":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+    {
+        "id":"04",
+        "name":"Go",
+        "details":"Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency."
+    },
+    {
+        "id":"05",
+        "name":"RUST",
+        "details":"Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages."
+    },
+    {
+        "id":"06",
+        "name":"C++",
+        "details":"C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or ."
     }
 ]
