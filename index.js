@@ -12,6 +12,12 @@ app.get('/',(req,res)=>{
 app.get('/data',(req,res)=>{
     res.send(dataOne)
 })
+app.get('/course/:id',(req,res)=>{
+    const id= req.params.id;
+    const selectCorse=dataOne.find(c=>c.id===id)
+    res.send(selectCorse)
+
+})
 
 app.listen(port,()=>{
     console.log('ok running app')
